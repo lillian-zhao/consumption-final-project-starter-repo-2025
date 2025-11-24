@@ -26,5 +26,5 @@ The line chart examines the question: Which Industry Has Growing Damage Over Tim
 
 The scatterplot targets the question: Which Industry Has the Worst Ecological Efficiency? Industries far above the trendline produce more emissions per unit of energy — highlighting ecological inefficiency.
 
-## Data
+## Data Source
 CO2 Emissions by Sectors: https://www.kaggle.com/datasets/avinashsingh004/co2-emissions-by-sectorss
