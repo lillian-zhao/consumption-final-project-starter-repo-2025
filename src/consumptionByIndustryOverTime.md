@@ -4,7 +4,7 @@ title: Consumption By Industry Over Time
 toc: false
 ---
 
-# Consumption By Industry Over Time 💸📈
+# Consumption By Industry Over Time
 
 <!-- Load and transform the data -->
 
@@ -35,7 +35,6 @@ toc: false
 
 ---
 
-<br>
 <!-- Plot of launch history -->
 <h1>Visualization: Consumption, Wealth, and Income Trends</h1>
 <p>The dashboard displays three key visualizations designed to show long term patterns in consumer spending, wealth accumulation, and industry level sales. Together, these visualizations demonstrate how consumption has risen steadily, and in some cases exponentially, over the past several decades.</p>
