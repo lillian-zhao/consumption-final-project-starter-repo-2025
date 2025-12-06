@@ -14,17 +14,36 @@ This section focuses on industries whose consumption patterns contribute most to
 
 ## Analysis
 
-### 1. CO₂ Emissions Over the Years by Industry Type
+### 1. Total CO₂ Emissions by Industry Across All Sectors
 
-The bar chart compares "Environmental Impact Across Industries". Specifically, it displays each industry’s total emissions across all sectors, highlighting both the largest overall emitters and the emission channels (industrial, automotive, domestic, and agricultural) that contribute most to their ecological footprint.
+The stacked bar chart visualizes the environmental impact of each industry, combining emissions from four major channels: industrial, automobile, agricultural, and domestic sources. Specifically, this multi-layered view not only identifies which industries produce the greatest overall emissions but also reveals how their emissions are distributed across different channels.
 
-### 2. Total CO₂ Emissions by Industry Across All Sectors
+A few patterns that stand out:
+1. **Manufacturing operations remain the dominant source**, consistently showing high emissions across all channels. This reflects energy-intensive manufacturing processes, heavy machinery use, and reliance on fossil fuels. In total, the Manufacturing industry produces approximately 832,698 metric tons of CO2 over 22 years, reinforcing its position as the largest contributor to consumption. The results are significant because they show that reducing consumption-driven emissions must begin with large-scale industrial reform since changes in this sector have the greatest potential to lower overall environmental impact. 
 
-The line chart examines the question: Which Industry Has Growing Damage Over Time? This shows which industries are increasing their CO₂ fastest and whether some sectors are improving.
+2. **Construction, Energy, and Mining Industries all have relatively high Emission rates**, showing that consumption is not dominated by a singular industry. Particularly, the Mining industry emits the lowest amount of CO2 at about 810,101 metric tons, which is only 2.7% lower than Manufacturing. This minimal difference highlights that public discourse often focuses on certain high-visibility sectors like fast fashion, but the data shows a more distributed environmental impact. Thus, to target consumption realities, methods must target multiple industries rather than just one. 
 
-### 3. CO₂ Emissions vs Energy Consumption
+3. **Industrial Emissions is the primary factor contributing to a high emission rate for each industry**, accounting for over 50% of the CO2 emissions across each industry. Based on this data, it's implied that industrial-related activities (transportation of raw materials, use of machinery, etc.) are major underlying drivers supporting the consumption of goods. Even industries not typically associated with industrial methods rely heavily on built infrastructure, supply chain facilities, mining operations, and transportation systems that all connect back to construction processes. Thus, the industrial sector is a pivotal target for targeting consumption trends and lowering environmental impact.
 
-The scatterplot targets the question: Which Industry Has the Worst Ecological Efficiency? Industries far above the trendline produce more emissions per unit of energy — highlighting ecological inefficiency.
+### 2. CO₂ Emissions Over the Years by Industry Type
+
+The line chart examines the environmental damage of industries over time. In particular, it shows which industries are increasing their CO₂ fastest and whether some sectors are improving.
+
+A few patterns that stand out:
+1. **Construction and Manufacturing have been steadily increasing for the past 3-4 years while Energy and Mining have generally declined during the same period**. Most recently, Construction recorded the highest emissions, reaching 34,768 metric tons of CO2 emissions in 2022. These results show that industries closely related to consumer demand and public trends are the biggest contributors to CO2 emissions. Thus, efforts to reduce overconsumption should shift toward strategies such as sustainable practices that directly target the Construction and Manufacturing industries. By targeting the sectors where consumer demand drives production the most, future policies and interventions can reduce emissions more effectively and address the root of consumption trends.
+
+2. **Manufacturing displays the most pronounced peaks in CO₂ emissions and consistently maintains high emission levels across the timeline**. Its highest peak occurred in 2008 at 34,092 metric tons, followed closely by another major rise to 33,543 metric tons in 2016, indicating recurring periods of intense industrial activity. These spikes symbolize moments of surges in consumer demand and reveals that the Manufacturing industry is most prone to consumption trends. This indicates that overconsumption in broad retail goods may be a far bigger ecological issue than clothing alone. Thus, methods to increase product longevity can decrease the frequency of consumption trends. 
+
+3. Overall, industry trends are not perfectly linear, and each sector experiences fluctuations over time. However, **Manufacturing clearly stands out as the most consistently high-emitting industry**. Its average annual CO2 emission level is 29,623 metric tons, the highest of all sectors. Notably, it also shows the most significant growth starting at 24,046 metric tons, the lowest initial value among the industries, and rising to 34,092 metric tons just eight years later. Ths suggests that structural consumer demand for manufactured goods is accelerating faster than sustainability policies can keep up. While media narratives often single out specific industries like fashion, the data shows that general manufacturing is the true long-term driver of ecological damage, largely because of the scale and diversity of consumer goods production. To target these issues for the future, the priority is to reduce waste and overconsumption in the broader supply chain, considering multiple factors rather than just one to two.
+
+### 3. CO₂ Emissions per Unit of Economic Output
+
+The scatterplot reveals which industries are least efficient or most polluting relative to the economic value they generate. The y-axis represents CO₂ emissions per unit of GDP, allowing us to see which sectors produce disproportionate environmental harm compared to their economic contribution.
+
+A few patterns that stand out:
+1. **The Construction industry has the highest CO₂ emissions per unit of output, at 1,149 metric tons per dollar of GDP, more than triple the next highest industry. Its GDP value is $54,930,203, only slightly above Mining's GDP value of $54,394,317. Based on these outputs, it's suggested that construction practices are heavily resource-intensive and wasteful, with emissions far outpacing the economic value they generate. Consumption in construction materials (cement, steel, plastics) is a major driver of inefficiency. To reduce impact, economies should focus on addressing the root causes of overconsumption within the Construction industry. If shifting overall consumption trends proves challenging, the priority should be to make existing practices more sustainable. This can be achieved through the use of low‑carbon cement, recycled materials, and energy‑efficient design standards. By improving efficiency and reducing waste, the Construction industry can significantly lower its emissions while continuing to meet economic and social needs.
+
+2. **Manufacturing is the most efficient industry,** generating the highest GDP, $57,114,769, while maintaining relatively low emissions per unit output, 257 metric tons per dollar. The data indicates that Manufacturing has adpated better to efficiency demands. Most people tend to associate overconsumption primarily with fast fashion, since it’s a highly visible trend and often discussed in the media. However, the data shows that there are other industries and consumption patterns that far surpass manufacturing in terms of emissions and ecological impact. Thus, it is important to investigate other industries that receive less attention yet contribute significantly to emissions. 
 
 ## Data Source
 CO2 Emissions by Sectors: https://www.kaggle.com/datasets/avinashsingh004/co2-emissions-by-sectorss
