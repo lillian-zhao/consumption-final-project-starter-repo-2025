@@ -1,7 +1,7 @@
 ---
+theme: [wide, coffee]
 toc: false
 ---
 
-# Home Page of Final Project
-
-Welcome to the home page of your final project!
+# Consumption Patterns and Their Broader Impacts
+## By Lillian Zhao, Jessica Zheng, and Amanda Zhu
