@@ -157,13 +157,6 @@ This line chart shows proportional growth, indicating how consumption is fundame
 <p>Color coding is used to differentiate industries, allowing viewers to explore general trends in consumer behavior while maintaining clarity across dozens of categories.</p>
 <br>
 
-### Software Used: Tableau
-
-<p>We wanted to use a software that would allow us to explore a lot of variables in a way which was both aesthetically appealing and allowed interactive elements. Tableau was the clear choice for this as Observable framework was good for smaller datasets with less variables, and ArgisOnline is better suited for visualizing geographic data.
-</p>
-<p>
-Overall, Tableau's interactive features allow users to explore specific periods, industries, or relationships between variables, making it well-suited for analyzing complex topics like overconsumption.</p>
-
 ---
 
 ## Connecting Overconsumption to Broader Social and Economic Impacts
