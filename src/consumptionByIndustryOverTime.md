@@ -116,7 +116,7 @@ In 1950, households held roughly 3 times more wealth than consumption spending. 
     <li>Professional & Commercial Equipment</li>
   </ul>
 </li><br>
-<li><b>Cateogires with noticeable upward trends include:</b><br>
+<li><b>Categories with noticeable upward trends include:</b><br>
   <ul>
     <li>Drugs and Druggist Sundries (Increase from 50,169 to 86,117) (172% increase)</li>
     <li>Petroleum & Petroleum Products (Increase from 36,303 to 53,819) (148% increase) </li>
