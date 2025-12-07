@@ -65,5 +65,6 @@ The overall dashboard displays three visualization types to reveal patterns in c
 
 ---
 
-## Data Source
-CO2 Emissions by Sectors: https://www.kaggle.com/datasets/avinashsingh004/co2-emissions-by-sectorss
+## Citations
+
+AvinashSingh004. (n.d.). CO2 Emissions by Sectors [Data set]. Kaggle. https://www.kaggle.com/datasets/avinashsingh004/co2-emissions-by-sectors

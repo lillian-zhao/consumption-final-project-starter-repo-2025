@@ -44,22 +44,12 @@ The dashboard integrates three visualizations to provide a multi-layered underst
 
 ---
 
-## Data
-<ul>
-  <li>
-    U.S. Personal Expenditures by State (Kaggle):
-    <a href="https://www.kaggle.com/datasets/davidbroberts/us-personal-expenditures-by-state-19972019?resource=download" target="_blank" rel="noopener noreferrer">https://www.kaggle.com/datasets/davidbroberts/us-personal-expenditures-by-state-19972019?resource=download</a>
-  </li>
-  <li>
-    Average Income and Rent in the United States (Kaggle):
-    <a href="https://www.kaggle.com/datasets/shahriarkabir/average-income-and-rent-in-united-states" target="_blank" rel="noopener noreferrer">https://www.kaggle.com/datasets/shahriarkabir/average-income-and-rent-in-united-states</a>
-  </li>
-  <li>
-    U.S. Population by State (Kaggle):
-    <a href="https://www.kaggle.com/datasets/alexandrepetit881234/us-population-by-state" target="_blank" rel="noopener noreferrer">https://www.kaggle.com/datasets/alexandrepetit881234/us-population-by-state</a>
-  </li>
-  <li>
-    Individual Carbon Footprint Calculation (Kaggle):
-    <a href="https://www.kaggle.com/datasets/dumanmesut/individual-carbon-footprint-calculation" target="_blank" rel="noopener noreferrer">https://www.kaggle.com/datasets/dumanmesut/individual-carbon-footprint-calculation</a>
-  </li>
-</ul>
+## Citations
+
+Robertts, D. (n.d.). U.S. Personal Expenditures by State 1997–2019 [Data set]. Kaggle. https://www.kaggle.com/datasets/davidbroberts/us-personal-expenditures-by-state-19972019?resource=download
+
+Kabir, S. (n.d.). Average Income and Rent in the United States [Data set]. Kaggle. https://www.kaggle.com/datasets/shahriarkabir/average-income-and-rent-in-united-states
+
+Petit, A. (n.d.). U.S. Population by State [Data set]. Kaggle. https://www.kaggle.com/datasets/alexandrepetit881234/us-population-by-state
+
+Duman, M., Yıldız, B., Baytar, H., Bayindir, E., & Gulasar, S. (n.d.). Individual Carbon Footprint Calculation [Data set]. Kaggle. https://www.kaggle.com/datasets/dumanmesut/individual-carbon-footprint-calculation
